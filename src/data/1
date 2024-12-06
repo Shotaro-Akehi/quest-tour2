@@ -1,0 +1,14 @@
+[
+  {
+    "startPoint": "東京駅",
+    "quests": [
+      {
+        "mission": "右に500m進む",
+        "imageUrl": "/assets/images/destination1.png",
+        "hint": "赤い看板を探せ",
+        "information": "東京の中心地",
+        "nextQuest": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "startPoint": "金沢駅",
+    "quests": [
+      {
+        "mission": "クエスト1: 右へ500m進み、大きな鳥居を見つける",
+        "imageUrl": "destination1",
+        "hint": "→",
+        "information": "金沢駅で有名な観光スポットです。",
+        "nextQuest": 1
+      },
+      {
+        "mission": "クエスト2: 左へ300m進み、住宅街の神社を見つける。",
+        "imageUrl": "destination2",
+        "hint": "↑",
+        "information": "ここでは静かなひと時を楽しめます。",
+        "nextQuest": 2
+      },
+      {
+        "mission": "クエスト3: 800m直進して、赤い建物の神社を見つける。",
+        "imageUrl": "destination3",
+        "hint": "←",
+        "information": "この場所は歴史的に重要な場所です。",
+        "nextQuest": null
+      }
+    ]
+  }
+]
